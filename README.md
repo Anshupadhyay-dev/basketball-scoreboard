@@ -18,3 +18,5 @@ A beginner-friendly basketball scoreboard web app built using HTML, CSS, and Van
 •DOM manipulation using getElementById and textContent
 
 •Event handling with onclick in HTML
+
+<img width="1898" height="910" alt="{650BB1DD-6045-4B67-AEA6-B4F6C6DA91B6}" src="https://github.com/user-attachments/assets/4b20ef3f-e53a-439e-afb9-28b6cafea87f" />
