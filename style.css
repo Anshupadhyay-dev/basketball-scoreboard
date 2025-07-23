@@ -1,0 +1,36 @@
+body {
+  background-image: url(photo-1572454181157-0b40dd7667fe.jpg);
+  font-family: Arial, sans-serif;
+  /* background: #222; */
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+.scoreboard {
+  display: flex;
+  gap: 50px;
+}
+
+.team {
+  background-color: #333;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.score {
+  font-size: 40px;
+  margin: 10px 0;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
